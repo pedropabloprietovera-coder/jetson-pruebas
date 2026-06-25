@@ -1,1 +1,1 @@
-print ("Hola desde la Jetson Orin Nano")
+print ("Hola desde GitHub y Jetson")
